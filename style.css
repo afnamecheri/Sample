@@ -1,0 +1,29 @@
+
+.bg{
+    background-image: url(temp2.jpeg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+ background-size: cover;
+    
+}
+.img-fluid{
+width: 418px;
+height: 320px;
+
+}
+.fa-css3{
+    color: #be4bdb;
+}
+.fa-html5{
+    color: #fd7e14;
+}
+.fa-js{
+    color: #4c6ef5;
+}
+.fa-file-code{
+    color:#82c91e;
+}
+.fa-python{
+    color: #4267B2;
+}
